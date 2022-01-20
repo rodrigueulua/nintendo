@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+
+#divBarNavHorizontale{
+    width: 100%;
+    height: 72px;
+    background-color: #e60012;
+    display: flex;
+}
+#menu{
+    margin-left: auto;
+}
+
+.menuBarNavHorizontale{
+    text-align: center;
+    fill: white;
+    color: white;
+    padding: 12px;
+    font-size: 12px;
+}
+
+.menuBarNavHorizontale a{
+    text-decoration: none;
+    color: white;
+    fill: white;
+}
+
+.menuBarNavHorizontale a:hover{
+    text-decoration: underline;
+}
+
+.menuBarNavHorizontale p{
+    margin: 0;
+}
+.menuBarNavHorizontale div{
+    font-size: 27px;
+}
+
+#logoBarNavHorizontale{
+    fill: white;
+    color: white;
+    padding: 25px;
+    font-size: 24px;
+}
